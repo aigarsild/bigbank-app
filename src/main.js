@@ -12,7 +12,15 @@ import {
   BIconHeartHalf ,
   BIconHeartFill,
   BIconTrophy,
-  BIconReplyAllFill
+  BIconReplyAllFill,
+  BIconBullseye,
+  BIconShieldShaded,
+  BIconSun,
+  BIconChatDotsFill,
+  BIconPeopleFill,
+  BIconBuilding,
+  BIconOutlet,
+  BIconSearch
 } from 'bootstrap-vue'
 
 Vue.use(BootstrapVue)
@@ -25,6 +33,14 @@ Vue.component('BIconHeartHalf', BIconHeartHalf)
 Vue.component('BIconHeartFill', BIconHeartFill)
 Vue.component('BIconTrophy', BIconTrophy)
 Vue.component('BIconReplyAllFill', BIconReplyAllFill)
+Vue.component('BIconBullseye', BIconBullseye)
+Vue.component('BIconShieldShaded', BIconShieldShaded)
+Vue.component('BIconSun', BIconSun)
+Vue.component('BIconChatDotsFill', BIconChatDotsFill)
+Vue.component('BIconPeopleFill', BIconPeopleFill)
+Vue.component('BIconBuilding', BIconBuilding)
+Vue.component('BIconOutlet', BIconOutlet)
+Vue.component('BIconSearch', BIconSearch)
 
 Vue.config.productionTip = false
 
