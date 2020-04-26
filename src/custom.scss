@@ -1,0 +1,13 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;800&display=swap');
+
+//general styles
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-dark {
+    background-color: #3B4680;
+    border: none;
+}
