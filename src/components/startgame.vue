@@ -58,6 +58,7 @@ export default {
 <style lang="scss">
 .start {
   margin: 0 auto;
+  width: 50%;
   input {
     height: 70px;
     border: none;
