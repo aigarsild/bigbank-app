@@ -45,7 +45,7 @@ Vue.component('BIconSearch', BIconSearch)
 Vue.config.productionTip = false
 
 let store = {
-  debug: true,
+  debug: false,
   state: {
     userName: String,
     apiBaseUrl: 'https://dragonsofmugloar.com/api/v2/',
